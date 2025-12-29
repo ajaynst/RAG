@@ -1,5 +1,0 @@
-Ajay is an AI Engineer with a BTech degree in Artificial Intelligence and Data Science, currently working at New Street Technologies, Bangalore.
-
-His primary programming language is Python, where he trying to go deep, he says - "I should be able to program efficiently even if I was given with just a python interpreter (means, no external libs installed)"
-
-Ajay prefers using the fish shell in Linux, he even wrote a blog on fish named "Bash to Fish" explaining features of fish shell.
