@@ -1,0 +1,458 @@
+
+--- Page 1 ---
+IIBF VISION
+Online 
+Examination
+Training
+E-Learning
+Mock Test
+Face Book
+Video 
+Lecture
+You
+Tube
+"The information / news items contained in this publication have appeared in various external sources / media for public use or consumption and 
+are now meant only for members and subscribers. The views expressed and / or events narrated/ stated in the said information / news items are as 
+perceived by the respective sources. IIBF neither holds nor assumes any responsibility for the correctness or adequacy or otherwise of the news items 
+/ events or any information whatsoever."
+INSIDE
+MISSION
+To develop professionally qualified and 
+competent bankers and finance professionals 
+primarily through a process of education, 
+training, 
+examination, 
+consultancy 
+/
+counselling 
+and 
+continuing 
+professional 
+development programs.
+VISION
+To 
+be 
+premier 
+Institute 
+for 
+developing and nurturing competent 
+professionals in banking and finance 
+field.
+No. of Pages - 8
+Top Stories..............................................2
+Banking Policies.....................................2
+Banking Developments.........................3
+Capital Market........................................3
+Regulator Speaks....................................3
+Economic Wrap Up...............................4
+New Appointments................................5
+Forex........................................................5
+Glossary...................................................5
+Financial Basics......................................5
+Institute’s Training  Activities...............6
+News From the Institute........................6
+Market Roundup....................................7
+Green Initiative.......................................8
+ 
+A Monthly Newsletter of Indian Institute of Banking & Finance
+Volume No. : 18
+Issue No. : 5
+December 2025
+(ISO 21001 : 2018 CERTIFIED)
+No. of Pages - 8
+
+
+--- Page 2 ---
+2
+December 2025
+IIBF VISION
+Top Stories - Banking Policies
+RBI guidelines on Digital banking channels mandates customer consent for onboarding
+In its final guidelines for digital banking channels, the Reserve Bank of India (RBI) has specified that banks 
+cannot mandate any customer to opt for any digital banking channel to avail any other banking facility like 
+debit cards. In fact, banks must obtain explicit consent from the customer for providing digital banking services 
+which may be duly recorded/documented. The guidelines also require banks to install appropriate risk mitigation 
+measures, according to their risk perception. The RBI has issued separate guidelines on Digital Banking Channels 
+Authorisation for Commercial Banks, Small Finance Banks, Payments Banks, Local Area Banks, Regional Rural 
+Banks, Urban Co-operative Banks and Rural Co-operative Banks.
+RBI consolidated Master Directions
+To enhance clarity, ease of access and reduce compliance burden for Regulated Entities (REs), the RBI has 
+undertaken a massive consolidation exercise of circulars/guidelines. Under this consolidation effort that 
+involved more than 9000 circulars/guidelines, instructions contained in approximately 3500 directions, circulars 
+and guidelines were consolidated into 238 Master Directions (MDs), across 11 types of REs. These include
+(a) Commercial Banks; (b) Small Finance Banks; (c) Payments Banks; (d) Local Area Banks; (e) Regional Rural 
+Banks; (f) Urban Co-operative Banks; (g) Rural Co-operative Banks; (h) All India Financial Institutions; (i) Non-
+Banking Financial Companies; (j) Asset Reconstruction Companies; and (k) Credit Information Companies. 
+These MDs will serve as the sole library of regulations administered by the Department of Regulation. Instructions 
+contained in remaining directions/circulars have been identified as obsolete and 9445 circulars stood repealed/
+withdrawn after the consolidated MDs were issued.
+Digital Personal Data Protection Rules, 2025
+The Government of India has notified the Digital Personal Data Protection (DPDP) Rules, 2025 to curb 
+unauthorized commercial use of data, reduce digital harms and create a safe space for innovation. The Rules 
+establish a fully digital Data Protection Board of India. The Board functions as an independent body that 
+oversees compliance, inquires into breaches and ensures that corrective measures are taken. The Act places 
+clear responsibilities on Data Fiduciaries to keep personal data safe and to stay accountable for its use; and has 
+provision for substantial financial penalties for non-compliance by them. 
+Banking Policies
+Foreign Exchange Management (Export of Goods and Services) (Second Amendment) Regulations, 2025
+RBI released the Directions to give exporters additional time to complete transactions and manage working 
+capital under challenging global demand and logistic conditions. As per the revised norms, exporters of goods/
+software/services are now allowed 15 months (up from 9 months) from the date of export to realise and repatriate 
+the full export value or as specified by RBI in consultation with Government of India. In cases where advance 
+payment has been received, exporters now have up to 3 years (instead of 1 year) to ship the goods, whichever is 
+later, as per contractual agreement.
+RBI released trade relief measures
+RBI has issued trade relief measures. Accordingly, moratorium or deferment has been permitted on payment of 
+term-loan instalments and on recovery of interest on working capital loans for amounts that are due between 
+September 1, 2025 and December 31, 2025. Banks and other lenders have been permitted to recalculate drawing 
+power under working capital facilities by reducing margins or reassessing the limits during the aforementioned 
+period. For credit disbursed up to March 31, 2026, the maximum credit period available for pre-shipment and 
+post-shipment export credit has been increased from one year to 450 days. For exporters who availed packing-
+credit facilities on or before August 31, 2025 but could not dispatch the goods, their lenders can liquidate the 
+facility from any legitimate alternate sources.
+TOP STORIES
+
+
+--- Page 3 ---
+3
+December 2025
+IIBF VISION
+Banking Developments
+RBI classifies Municipal Debt Securities as eligible for repo transactions 
+To regulate the financial system, the RBI has revised the Repurchase Transactions Directions, 2025 to include 
+Municipal Debt Securities as eligible securities for repo and reverse repo transactions, alongside Government 
+and corporate debt securities. With RBI’s prior approval, repo transactions may be traded on any recognized 
+stock exchanges or an Electronic Trading Platform (ETP) duly authorised by the RBI or in the Over-the-Counter 
+(OTC) market. The first leg of all repo transactions shall settle either on a T+0 or T+1 basis.
+Compounding of Contraventions under FEMA, 1999 revised by RBI to include new account number
+To streamline the receipt of compounding application fee and ‘sum for which a contravention is compounded’ 
+(compounding amount), the RBI has revised the Compounding of Contraventions under FEMA, 1999 to change 
+the account details of the account where compounding application fee and compounding amount will be received 
+through National Electronic Fund Transfer (NEFT) and Real Time Gross Settlement (RTGS). 
+UPI-TIPS interlinkage to ease remittances between India and Euro Area 
+RBI has announced the interlinking of Unified Payments Interface (UPI) with the Eurosystem’s TARGET Instant 
+Payment Settlement (TIPS). The UPI-TIPS interlinkage will facilitate cross-border remittances between India 
+and the Euro Area. RBI and NPCI International Payments Limited (NIPL) have been engaging with European 
+Central Bank to operationalize this system including technical integration, risk management and settlement 
+arrangements.
+Capital Market
+SEBI incentivizes distributors to encourage women, B-30 investor participation
+To boost the participation of women investors and people from beyond top 30 (B-30) cities, the Securities 
+and Exchange Board of India (SEBI) has introduced an incentive framework for Mutual Fund distributors. 
+Accordingly, from February 2026, distributors bringing new individual investors (new PANs) from B-30 
+cities and new women investors from both T30 and B-30 locations will be eligible for up to ₹2,000 additional 
+commissions per investor. The incentive structure will not be applicable for schemes like Exchange Traded Funds 
+(ETFs), domestic fund of funds with more than 80% of Asseta Under Management invested in domestic funds 
+and short duration debt schemes like overnight, liquid, ultra-short duration and low duration. 
+REITs reclassified by SEBI as equity instruments to boost market participation
+To facilitate enhanced participation by Mutual Funds (MFs) and Specialized Investment Funds (SIFs) in Real 
+Estate Investment Trusts (REITs), with effect from January 01, 2026, any investment made by MFs and SIFs in 
+REITs shall be considered as investment in equity-related instruments. Infrastructure Investment Trusts (InvITs) 
+shall continue to be classified as hybrid instruments for the purpose of investments by Mutual Funds and SIFs. 
+Existing investment in REITs held by debt schemes of Mutual Funds and investment strategies of SIFs as on 
+December 31, 2025, shall be grandfathered. 
+Regulator Speaks
+Regulations must evolve, resolve challenges to combat market failures: Mr. Sanjay Malhotra, Governor, RBI 
+Regulation is a pragmatic response to the inherent limitations of unregulated markets in specific contexts, 
+said Mr. Sanjay Malhotra, Governor, RBI at the Second V.K.R.V. Rao Memorial Lecture, Delhi School of 
+Economics. Financial regulation operates in a different way as compared to other sectoral regulations, due to its 
+interconnectedness, cascading effect and fragile nature. Regulations need to change when the context changes. To 
+achieve good regulatory outcomes is almost always a collaborative effort by the Government, amongst regulators, 
+the regulated and the broader community such as informed citizens, responsible financial institutions, engaged 
+scholars and bright students who will shape the future of Indian financial system. 
+Banking sector must embrace new technologies with wisdom: Mr. T Rabi Sankar, Deputy Governor, RBI 
+Delivering a speech at the 12th SBI Banking & Economics Conclave, Mr. T Rabi Sankar, Deputy Governor, RBI, 
+Banking Developments - Capital Market - Regulator Speaks
+
+
+--- Page 4 ---
+4
+December 2025
+IIBF VISION
+Regulator Speaks - Economic Wrap Up 
+highlighted the impact of transformational technologies on the banking sector. With powerful technologies like 
+Artificial Intelligence (AI) and quantum computing making strides towards this sector, the challenge is how to 
+embrace them with wisdom and purpose; and ensure that technological evolution is secure, inclusive, resilient 
+and future-ready. Banks must be well-equipped to face these challenges while maintaining their central role in 
+monetary transmission and financial stability. 
+Adequate capitalisation is imperative for financial resilience: Mr. Murmu, Deputy Governor, RBI
+Speaking at the first International Conference on Central Bank Accounting Practices organised by RBI and the 
+South East Asian Central Banks (SEACEN) Centre, Mr. Shirish Chandra Murmu, Deputy Governor, RBI opined 
+that Central Banks of emerging and developing economies require adequate capitalisation to ensure financial 
+resilience. In the absence of any internationally recognised risk capital framework, each Central Bank finds 
+its own balance between the opportunity cost of Central Bank capital vis-vis the socio-economic cost and the 
+negative consequences of under-capitalisation. 
+Microfinance alleviates asymmetry in lending; must be made more inclusive: Mr. Swaminathan, Deputy 
+Governor, RBI
+Microfinance bridges asymmetry by extending the benefits of formal finance to the excluded and help them create 
+a transaction record. Now, the agenda must be to convert reach into inclusive growth, said Mr. Swaminathan J., 
+Deputy Governor, RBI at the MFIN event. This can be achieved through better and tech-enabled underwriting, 
+reasonable pricing and consistent customer protection. Credit decisions work best on understanding the full 
+cash life cycle of the family. Product design must match the actual growth of small businesses. Taken together, 
+the aim is to convert first access into regular use, regular use into stable income and stable income into a clear 
+route to formal credit.
+Policy making gets strengthened by timely and topical statistics: Dr. Poonam, Deputy Governor, RBI
+Indian economy has been a high growth economy exhibiting both, resilience and agility, said Dr. Poonam Gupta 
+at the Pre-release Consultative Workshop on Base Revision of Consumer Price Index (CPI), Gross Domestic 
+Product (GDP) and Index of Industrial Production (IIP). Our statistical offerings, data and techniques must 
+keep pace with the growing and rapidly evolving economy. Constantly evolving transformations can be best 
+captured only by regularly updating and revising the existing data series, as well as constructing new ones. 
+Planned enhancements include a redesign of the underlying data architecture, development of Application 
+Programming Interfaces (APIs) for automatic retrieval, improved search and visualisation tools and harmonised 
+user experience across the portal, mobile app and future digital channels.
+Economic Wrap Up
+Department of Economic Affairs released Monthly Economic Review, October 2025. Its key highlights are as 
+follows:
+•	
+The manufacturing Purchasing Managers’ Index (PMI) rising to 59.2 from 57.5 in September.
+•	
+The average daily value of UPI transactions has shown YOY growth of 27.1% in November 2025 (as on 
+November 18, 2025).
+•	
+Retail inflation has reached an all-time low in the current series, dropping to 0.25% in October 2025, down 
+from 1.44% in September 2025.
+•	
+Net Foreign Direct Investment (FDI) to India for April-Sep FY26 increased to USD 24 billion from USD 
+15.6 billion, a year earlier.
+•	
+The share of households’ financial investments in total financial assets has risen to 15.1%.
+•	
+In September 2025, bank credit to MSME showed a YoY increase of 19.7%, compared to an increase of 
+15.5% in September 2024. Within the MSME sector, the credit extended to the micro and small enterprises 
+has registered an increase of 22% (YoY) in September 2025, up from 13.4% in September 2024.
+
+
+--- Page 5 ---
+5
+December 2025
+IIBF VISION
+New Appointments - Forex - Glossary - Financial Basics 
+New Appointments
+Name
+Designation
+Ms. Usha Janakiraman
+Executive Director, Reserve Bank of India
+Shri Amit Kumar Shrivastava
+Executive Director, Punjab National Bank
+Shri Sunil Kumar Chug
+Executive Director, Canara Bank
+Shri Amresh Prasad
+Executive Director, Union Bank of India
+Shri Prabhat Kiran
+Executive Director, Bank of Maharashtra
+Ms. Mini T. M. 
+Executive Director, Indian Bank
+Shri Pramod Kumar Dwibedi
+Executive Director, Bank of India
+Forex
+Foreign Exchange Reserves
+Trends in Foreign Exchange
+Reserve (US$ Mn) last 6 months
+Item
+As on November 28, 2025
+Note: Data as reported on last Friday of respective month
+` Cr.
+US$ Mn.
+1
+2
+1 Total Reserves
+6137575
+686227
+1.1 Foreign Currency Assets
+4982046
+557031
+1.2 Gold
+946227
+105795
+1.3 SDRs
+166610
+18628
+1.4 Reserve Position in the IMF
+42692
+4772
+Source: Reserve Bank of India
+Base Rates of Alternative Reference Rates (ARRs) for FCNR (B) deposits as on November 28, 2025, applicable 
+for the month of December 2025
+ARR Name
+Base Rates 
+of ARR (%)
+ARR Name 
+Base Rates 
+of ARR (%)
+ARR Name 
+Base Rates 
+of ARR (%)
+SOFR (USD)
+4.05
+AONIA (AUD)
+3.60
+HONIA (HKD)
+1.40646
+SONIA (GBP)
+3.969
+SARON (CHF)
+-0.037800
+MYOR (MYR)
+2.75
+€STR (EUR)
+1.928
+OCR (NZD)
+2.25
+DESTR (DKK)
+1.5380
+TONA (JPY)
+0.478
+SWESTR (SEK)
+1.631
+Source: www.fbil.org.in
+CORRA (CAD)
+2.2400
+SORA (SGD)
+1.0782
+Glossary
+Purchasing Managers’ Index
+Purchasing Managers’ Index refers to monthly economic surveys of companies in which senior managers 
+overseeing operations answer questions on business activity and its recent trends. 
+Financial Basics
+Written-Down Value
+Written-down value is the value of an asset after accounting for depreciation or amortization. It reflects an 
+asset’s current value by subtracting accumulated depreciation or amortization from its original cost. This value 
+
+
+--- Page 6 ---
+6
+December 2025
+IIBF VISION
+Financial Basics  - Institute's Training Activities - News from the Institute
+is included on the company’s balance sheet in its financial statements. It is also known as the book value or net 
+book value of an asset. 
+Institute’s Training Activities
+Training Programmes for the month of December 2025
+Programmes
+Dates
+Location
+Programme on KYC, AML & CFT for Banks, NBFCs & FIs
+9th-20th December, 2025
+Virtual
+Programme on Credit Monitoring and Recovery
+10th-12th December, 
+2025
+Virtual
+Workshop on Banking Ombudsman & COPRA
+12th December, 2025
+Virtual
+Programme for Law Officers on Legal Risk, Compliance & 
+Recovery in Banks, NBFCs & FIs
+16th-17th December, 
+2025
+Virtual
+Programme on Executive Development Programme
+16th-18th December, 
+2025
+Professional Development 
+Centre, Northern Zone, New 
+Delhi
+Programme on Mitigation strategies for credit & operational 
+risk in banks
+22nd-23rd December, 
+2025
+Virtual
+Programme on Business Analytics, Machine Learning and 
+Artificial Intelligence and its Implication in Banks
+22nd-24th December, 
+2025
+Virtual
+Workshop on Smart Banking with AI - A Deep Dive for 
+Bankers
+23rd December, 2025
+Virtual
+News from the Institute
+IIBF organised the 40th Sir Purshotamdas Thakurdas Memorial Lecture 
+On 3rd December 2025, the Institute held the 40th Sir Purshotamdas Thakurdas Memorial Lecture in virtual 
+mode. The lecture was delivered by Prof. Manoj Kumar Tiwari, Director, Indian Institute of Management (IIM) 
+Mumbai on “Knowledge Graph Integrated Credit Risk Assessment”. The lecture was well received and attended 
+by a wide number of bankers.
+IIBF conducted a 3-Day Trainers’ Training Programme 
+As part of its academic capacity-building initiatives, IIBF organised a Trainers’ Training Programme on 
+‘Pedagogical Excellence & Industry-Relevant Teaching in Banking & Finance’ for Faculty across its MoU 
+Colleges and Universities, from December 3-5, 2025. The sessions emphasized effective teaching practices, soft-
+skill integration and enhanced student readiness for BFSI careers.
+IIBF organised joint Webinar on “Getting Started with Impact Management for Indian Banks” 
+IIBF organised joint webinar with United Nations Environment Finance Initiative (UNEP FI), Gesellschaft für 
+Internationale Zusammenarbeit (GIZ) and Chartered Banker Institute under Principles for Responsible Banking 
+(PRB) Academy on “Getting Started with Impact Management for Indian Banks” on November 27, 2025. The 
+webinar provided insights on why impact management matters for Indian banks and the practical tools and 
+resources available to start impact analysis and management.
+IIBF’s ‘Leaders Speak Series’ 
+Shri Hare Krishna Jena, Managing Director and CEO, The Clearing Corporation of India Ltd. (CCIL), delivered 
+an address to the XIV batch of Advanced Management Programme, under IIBF’s Leaders Speak Series organised 
+on November 30, 2025.
+
+
+--- Page 7 ---
+7
+December 2025
+IIBF VISION
+News from the Institute - Market Roundup
+IIBF invites papers/proposals under Micro and Macro Research 2025-26 
+Micro Research is a sort of an essay competition for life members of the Institute (bankers) to present their original 
+ideas, thoughts and best practices on areas of their interest. Under Macro research, Institute encourages empirical 
+research in which, the researchers can test their hypothesis through data (primary/secondary) from which, lessons 
+can be drawn for the industry (banking & finance) as a whole. The last date for receipt of applications under Micro 
+and Macro Research is February 28, 2026. For more details, please visit www.iibf.org.in
+IIBF invites applications under Diamond Jubilee and CH Bhabha Banking Overseas Research Fellowship 
+(DJCHBBORF) for the year 2025-26
+The Institute invites applications under Diamond Jubilee and CH Bhabha Banking Overseas Research Fellowship 
+(DJCHBBORF) Scheme. The objective of the fellowship is to provide the successful candidate an opportunity to 
+undertake a research study on the latest developments in the field of banking and finance in India or abroad. The 
+last date for receipt of applications is February 28, 2026. For more details, please visit www.iibf.org.in
+Bank Quest Theme for upcoming issue
+The theme for the upcoming issue of Bank Quest for the quarter October-December 2025 is “Emerging 
+Technologies in Banking”. The Sub-themes are: Applications of Generative Artificial Intelligence (AI), Ethical AI, 
+Fraud Detection and Creating Early Warning Signals, Technologies for Project Appraisal and Credit Appraisal.
+Cut-off date of guidelines/important developments for examinations
+The Institute has a practice of asking questions in each exam about the recent developments/guidelines issued by 
+the regulator(s) in order to test if the candidates keep themselves abreast of the current developments. However, 
+there could be changes in the developments/guidelines from the date the question papers are prepared and the 
+dates of the actual examinations. In order to address these issues effectively, it has been decided that:
+(i) In respect of the exams to be conducted by the Institute for the period from March to August of a calendar 
+year, instructions/guidelines issued by the regulator(s) and important developments in banking and finance up 
+to 31st December will only be considered for the purpose of inclusion in the question papers.
+(ii) In respect of the examinations to be conducted by the Institute for the period September to February of a 
+calendar year, instructions/ guidelines issued by the regulator(s) and important developments in banking and 
+finance up to 30th June will only be considered for the purpose of inclusion in the question papers.
+ 
+ 
+Source: FBIL
+Source: Weekly Newsletter of CCIL
+Market Roundup
+
+
+--- Page 8 ---
+8
+December 2025
+IIBF VISION
+● Registered with Registrar of Newspapers Under RNI No. : 69228/1998
+INDIAN INSTITUTE OF BANKING & FINANCE
+Kohinoor City, Commercial-II, Tower-I, 2nd Floor, Kirol Road, Kurla (W),
+Mumbai - 400 070.
+Tel. : 91-22-6850 7000 
+E-mail : admin@iibf.org.in
+Website : www.iibf.org.in
+Printed by Biswa Ketan Das, Published by Biswa Ketan Das, on behalf 
+of Indian Institute of Banking & Finance, and printed at Onlooker Press
+16, Sasoon Dock, Colaba, Mumbai - 400 005 and published at Indian Institute 
+of Banking & Finance, Kohinoor City, Commercial-II, Tower-I, 2nd Floor, 
+Kirol Road, Kurla (W), Mumbai - 400 070.
+Editor : Biswa Ketan Das
+Green Initiative
+Members are requested to update their e-mail address with the 
+Institute and send their consent to receive the Annual Report 
+via e-mail.
+Market Roundup - Green Initiative
+Source: Monthly Review of the Economy, CCIL,  November 2025
+Source: PPAC, Ministry of Petroleum and Natural Gas
+Source: Reserve Bank of India
+Source: Monthly Review of the Economy, CCIL, November 2025
+Source: Gold Price India
+Source: BSE & NSE
