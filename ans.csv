@@ -1,0 +1,55 @@
+slno,qn,real_ans,model_ans
+1,what is the IFSC code and address of Allahabad Bank," IFSC Code: ALLA0888888, Address: Allahabad Bank, 3rd Floor, Allahabad Bank Building,
+37, Mumbai Samachar Marg, Fort ,Mumbai -23","The IFSC code of Allahabad Bank is ALLA0888888. 
+The address is Allahabad Bank, 3rd Floor, Allahabad Bank Building, 37, Mumbai Samachar Marg, Fort ,Mumbai -23."
+2,what is the branch name of UTI Bank,Branch name is not mentioned,"Maker Towers ' F' 11th Floor, Cuffe Parade,  Mumbai - 400 005. 
+The branch name is not explicitly mentioned, but based on the address, it can be referred to as ""Mumbai"" or more specifically, the address itself. However, a more direct answer based on the structure of the provided information would be to state the address as it directly follows the branch name field.
+
+So, UTI Bank's branch details do not explicitly state a branch name other than the address: Maker Towers ' F' 11th Floor, Cuffe Parade,  Mumbai - 400 005."
+3,tell me about Bank of Tokyo Mitsubishi Ltd.,"IFSC: BOTM0003611, Branch Name: Mumbai, Address: 3, JEEVAN VIHAR BUILDING, PARLIAMENT STREET, NEW DELHI- 110001",I don't know.
+4,"tell the name of bank having branch in 'Star House, 8th floor, C-5, G Block, Bandra Kurla Complex, Bandra East, Mumbai 400 051'.",Bank of India,I don't know.
+5,name the bank having IFSC code PUNB0244200 and branch name Nehru Centre,"No bank has IFSC code PUNB0244200 and branch name Nehru Centre, the IFSC code belongs to Punjab National Bank and Branch Name to Yes Bank",I don't know.
+6,"Which bank operates in the Information Technology Department, Marol",IDBI Bank,I don't know.
+7,Is Axis Bank listed in RTGS document?,No,I don't know.
+8,Which all Global ESG Benchmarks were taken for evaluating axis bank?,"S&P ESG Score, FTSE4Good Index , MSCI ESG Ratings, CDP Score, CRISIL ESG Ratings, Sustainalytics, Nifty100 ESG Sector Leaders, S&P BSE 100 ESG Index, MSCI India ESG Leaders, S&P BSE CARBONEX Index","The Global ESG Benchmarks that were taken for evaluating Axis Bank are:
+
+1. S&P ESG Score 2024
+2. FTSE4Good Index 
+3. MSCI ESG Ratings 
+4. CDP Score 
+5. Nifty100 ESG Sector Leaders Index
+6. MSCI India ESG Leaders Index 
+7. S&P BSE 100 ESG Index 
+8. S&P BSE CARBONEX Index
+9. CRISIL ESG Ratings 
+10. Sustainalytics"
+9,Name the subsidiaries of axis bank?,"Axis Mutual Fund, Axis Capital, Axis Finance, Axis Securities, Axis Trustee, Freecharge, ATREDS, Axis Max Life Insurance","The subsidiaries of Axis Bank mentioned in the context are:
+
+1. Axis Finance
+2. Axis Capital
+3. Axis Securities
+4. Axis AMC (Asset Management Company) 
+5. Axis Mobile app (part of Digital Banking Segment)"
+10,which bank won the digital cx awards 2024?,"Axis Bank (expected ans is I don't know, as the answer is in an image)",I don't know.
+11,what was the percentage growth of q2fy26 and q2fy25 for axis bank? (give a single answer),2.00%,11% | 10%
+12,what was the axis bank total income for q2fy25?,"37,142 crores","The Axis Bank total income for Q2FY25 was ₹37,142 crores."
+13,give the axis bank investment figure as on 30th september 2025,44131,I don't know.
+14,who is Usha Janakiraman?,"Executive Director, Reserve Bank of India",I don't know.
+15,what is the address of Indian Institute Of Banking & Finance,"Kohinoor City, Commercial-II, Tower-I, 2nd Floor, Kirol Road, Kurla (W), Mumbai - 400 070","Kohinoor City, Commercial-II, Tower-I, 2nd Floor, Kirol Road, Kurla (W), Mumbai - 400 070."
+16,who is Biswa Ketan Das,"Biswa Ketan Das is the Editor, Printer and Publisher of the document Vision December 2025, on behalf of Indian Institute of Banking & Finance.",Biswa Ketan Das is the Editor and also the person who Printed and Published the document on behalf of Indian Institute of Banking & Finance.
+17,We maintain a ____ bias towards the Indian equity markets. Fill in the blanks,positive,I don't know.
+18,What fee increase impacted the IT sector?,visa fee,I don't know.
+19,"With ongoing global policy uncertainty, tariff risks, and uneven earnings what happened to large and small caps evaluations?",large cap remained resilient and small cap elevated,"Historically, large caps have outperformed mid and small caps during periods of uncertainty due to stronger balance sheets and higher institutional ownership. With ongoing global policy uncertainty, tariff risks, and uneven earnings, large caps remain relatively resilient. 
+
+The midcap premium to large caps has declined from 72% in Sep’24 to ~30%, only slightly above the 10-year average of 25%. Small-cap valuations, with a 25% premium, also remain elevated versus historical norms, though significantly lower than 2024 highs. This leaves mid and small caps vulnerable if earnings momentum weakens or global risk appetite remains subdued."
+20,What is the CAGR returns of Motilal Oswal Nifty 500 Index Fund for 2nd and 3rd year?,14.57% and 15.22% respectively,The CAGR returns of Motilal Oswal Nifty 500 Index Fund for 2nd and 3rd year are 14.57% and 15.22% respectively.
+21,What were the CAGR returns of Aggressive Hybrid Funds (axis)?,"1 Year: -3.06, 2 Years: 12.01, 3 Years: 10.56","The CAGR returns of Axis Aggressive Hybrid Fund were:
+
+* 1 Year: -3.06
+* 2 Years: 12.01
+* 3 Years: 10.56"
+22,comment about inflation rate,"India's CPI inflation rose to 2.07% YoY, Core inflation held steady at 4.21%, on the wholesale side WPI inflation rose to 0.52%","India's CPI inflation rose to 2.07% YoY, marking a modest uptick. Core inflation held steady at 4.21%. Inflation is expected to remain below 3% in FY26, but risks are emerging for FY27, with a potential rise to 4.5-5.0%. The RBI has signaled the end of rate cuts, but markets are pricing in potential hikes within the next two years."
+23,What shaped domestic debt markets?,"GST rationalization, resilient GDP growth, and S&P's upgrade of India's sovereign rating from BBB- to BBB","Domestic debt markets were shaped by tariff concerns, GST rationalization, resilient GDP growth, and S&P’s upgrade of India’s sovereign rating from BBB- to BBB."
+24,comment on indian bond market,"The bond market is expected to remain in a consolidation phase, with limited room for further easing making carry-focused strategies more attractive than duration plays; the 10-year yield is likely to trade between 6.20%-6.70%, while 1-5-year yield curve offer better risk-reward, and the medium-term outlook remains stable, depending on inflation, fiscal signals, and global
+Factors.","The Indian bond market continues to experience mixed trends. Shorter-duration issuance is gaining traction, but deposit growth is staying weak, and liquidity management is being challenged by elevated CD/OIS spreads. India's bond yields are expected to remain range-bound, influenced by supply concerns and potential rate hikes. The 10-year G-sec yields are aggressively priced and may be near bottom compared to global benchmarks."
+25,full form of DIFC,Dubai International Financial Centre,Dubai International Financial Centre
