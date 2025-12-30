@@ -1,2 +1,3 @@
 # RAG
-For Learning Retrieval-Augmented Generation
+
+Retrieval-Augmented Generation by Buddies
