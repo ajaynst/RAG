@@ -1,3 +1,4 @@
+```
 PDFs
   ↓
 Docling (text + structure extraction)
@@ -13,3 +14,4 @@ Retriever
 Groq LLM
   ↓
 Answer grounded in docs
+```
