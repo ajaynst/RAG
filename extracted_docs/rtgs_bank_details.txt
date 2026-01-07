@@ -1,0 +1,568 @@
+
+--- Page 1 ---
+Bank Name
+IFSC Code
+Branch Name
+Address
+ABU DHABI COMMERCIAL BANK ADCB0000001
+MUMBAI
+75-B,Rehmat Manzil,Vir Nariman
+Road,Chrchgate,Mumbai-4000020
+Abhyudaya co-op Bank Ltd.
+ABHY0065001
+Mumbai
+ 251, ABHYudaya Bank Bldg, Perin Nariman Street,
+Fort, Mumbai 400 001,
+ABN Amro
+ABNA0000001
+Data Centre-Parel, Mumbai
+414, Empire Complex, Senapati Bapat Marg, Lower
+Parel (West), Mumbai 400 013
+Allahabad Bank
+ALLA0888888
+Fort Branch
+Allahabad Bank, 3rd Floor, Allahabad Bank Building,
+37, Mumbai Samachar Marg, Fort ,Mumbai -23
+American Express Bank Ltd.
+AMEX0000001
+Mumbai
+Oriental Building, Ground floor, 364  Dr. D. N. Road,
+Fort, Mumbai  400 001.
+Andhra Bank
+ANDB0TRESUY
+MUMBAI
+1st Floor Bansi Lal Building, 11 Homi Modi Street,
+Fort, MUMBAI - 400 023
+Bank of America
+BOFA0MM6205
+Mumbai Branch
+Express Towers, Nariman Point, Mumbai 400 021
+Bank of Bahrain & Kuwait
+BBKM0000001
+Mumbai
+225 Jolly Maker Chamber II,Nariman Point, Mumbai
+400 021
+Bank of Baroda
+BARB0TREASU
+Treasury Branch (Forex and
+Money Market)
+ 6th Floor, Kalpataru Heritage Building,Nanik Motwani
+Marg, Fort, Mumbai - 400 023.
+Bank of India
+BKID000PIGW
+Mumbai
+Star House,  8th floor, C-5,  "G" Block, Bandra Kurla
+Complex, Bandra East, Mumbai 400 051
+Bank of Maharashtra
+MAHB0003007
+Mumbai
+Treasury and International Banking Division, 2nd
+Floor, Maker Chamber III, Nariman Point, Mumbai
+400 02
+Bank of Novascotia
+NOSC0000MUM
+Mumbai
+Mittal Tower ‘B’ Wing, Nariman Point, Mumbai 400
+021
+Bank of Punjab
+BOPL0405000
+BOP-TREASURY
+17TH FLOOR 'B' WING MITTAL COURT,NARIMAN
+POINT
+Bank of Rajsthan
+BRAJ0003350
+Treasury Branch Mumbai
+Treasury Branch, 18/20 Cawasji Patel Street, Jeevan
+Jyoti Bldg., Fort, Mumbai - 400 023.(Maharastra)
+Bank of Tokyo Mitsubishi Ltd.
+BOTM0003611
+Mumbai
+3, “JEEVAN VIHAR BUILDING, PARLIAMENT
+STREET, NEW DELHI - 110001
+Barclays Bank PLC
+BARC0INBB01
+Mumbai
+21/23, Maker Chambers VI, Nariman Point, Mumbai
+400 021
+Bharat Co-Op Bank Ltd.
+BCBM0000999
+Central Office
+Marutagiri, Plot No 13/9A,Sonawala Road,Samant
+Wadi,Goregaon (e),Mumbai - 400 063
+Bharat Overseas Bank Ltd.
+BHOB0000001
+Head Office
+"Habeeb Towers", 2nd Floor, 196 (Old # 756) Anna
+Salai, Chennai 600 002
+BNP Paribas
+BNPA0009066
+Central Office
+French Bank Bldg.,62, Homji Street, Mumbai - 400
+001
+BOB Capital markets Limited
+BOBC0000001
+Mumbai
+Nobel Chambers (Vatsa House), Ground Floor, 20-
+C/D, S.A. Brelvi Road, Fort, Mumbai-400001
+Canara Bank
+CNRB0RTGS01
+Mumbai
+FUNDS & INVESTMENT SECTION ,  FIRST FLOOR
+, VERMA CHAMBERS ,  11 HOMJI  STREET, FORT,
+MUMBAI  400001
+CATHOLIC SYRIAN BANK LTD.
+CSBK0000001
+Mumbai
+P.M.Road, Botwala chambers,  Fort Mumbai - 400
+001
+Caylon Bank
+CRLY0000001
+Mumbai
+Hoechst House, 11th, 12th, 14th Floor, Nariman
+Point,  Churchgate, Mumbai - 400 021.
+
+
+--- Page 2 ---
+Central Bank of India
+CBIN0281102
+MUMBAI
+CPP DEPT., 9TH FLOOR, CHANDER MUKHI,
+NARIMAN POINT, MUMBAI-21.
+Centurion Bank
+CENT0000001
+Mumbai
+1201 Raheja Centre,  Free press journal marg,
+Nariman Point,  Mumbai 400 021
+Chinatrust Commercial Bank Ltd.
+CTCB0000001
+New Delhi
+21-A, Janpath, New Delhi-110001
+Cho-Hung Bank
+CHOH0000001
+Mumbai
+42 Jolly Maker Chambers II, 225 Nariman Point,
+Mumbai 400 021
+Citi Bank N.A.
+CITI000PIGW
+CITIBANK NA
+Bombay Mutual Building, Fort, Mumbai-400001
+Citicorp Capital Markets
+CCML0000001
+Mumbai
+4th Floor, Citigroup Center, C-61, G Block, Bandra-
+Kurla Complex, Bandra East, Mumbai 400 051
+Citizencredit Co-Op Bank Ltd.
+CCBL0209003
+Colaba
+Sind Chambers Co-op. Hsg Soc. Ltd., S. B. Singh
+Road, Colaba, Mumbai - 400 005
+City Union Bank Ltd.
+CIUB0000082
+I.B.D.          (CHENNAI)
+INTERNATIONAL BANKING DIVISION, 706 ANNA
+SALAI, CHENNAI - 600 006
+CorpBank Securities Ltd.
+CBSL0000001
+Mumbai
+ 21,VEENA CHAMBERS, DALAL STREET, FORT,
+Mumbai
+Corporation Bank
+CORP0000920
+Mumbai
+15, Mittal Chambers, Nariman Point, MUMBAI - 400
+021
+COSMOS Bank
+COSB0000025
+M.R.O.
+ 36 A, Maru Niketan,  D.L.Vaidya Road  Dadar (W),
+Mumbai 400028
+Dena Bank
+BKDN0999999
+Head Office
+DENA BANK, 17, FUNDS & TREASURY
+DEPARTMENT, HORNIMON CIRCLE, MUMBAI -
+400 023
+Deutsche Bank
+DEUT0784BBY
+Mumbai
+222, Kodak House, Dr. D.N. Road, Fort, Mumbai -
+400 001.
+Deutsche Securities (I) Pvt.
+DSIP0INDBBY
+Mumbai
+222, Kodak House, 2nd Floor, Dr. D.N. Road, Fort,
+Mumbai - 400 001.
+Development Bank of Singapore
+DBSS0IN0811
+Mumbai
+14th Floor, Free Press House, Nariman Point,
+Mumbai 400 021
+Development Credit Bank
+DCBL0000037
+Treasuary Department
+ 9th Floor,  906, Raheja Chambers, Nariman Point.
+Mumbai - 400 021.
+Dhanalakshmi Bank
+DLXB0000146
+Nariman Point
+Unit 5, 11th Floor, Center 1, World Trade Center,
+Cuffe Parade, Mumbai 400 005
+DOMBIVLI NAGRI SAHAKARI
+BANK LTD
+DNSB0000001
+Dombivili Thane
+ANNAPURNA BLDG., TAI PINGLE CHOWK, TILAK
+ROAD, DOMBIVLI(E) , DIST- THANE
+DSP Merrill Lynch Limited
+DSPM0000001
+Mumbai
+Mafatlal Centre, 10th Floor, Nariman Point, Mumbai
+400021
+Federal Bank
+FEDB0000379
+MUMBAI / FUNDS &
+INVESTMENTS
+FUNDS AND INVESTMENT BR, IST FLOOR,, 27,
+TAMARIND LANE, H M STREET,  FORT, MUMBAI,
+400 023
+Gilt Securities Trading Corporation
+Limited
+GSTC0000001
+Mumbai
+1/1, "Kalpataru Heritage", Maneckji Wadia Building,
+127, M G Road, Fort, Mumbai - 400023
+Greater Bombay Co-Op Bank Ltd.
+GBCB0000001
+ Service Branch
+Corporate Office, 117,  Baldota Bhavan, 3rd Floor, M.
+K. Marg, Churchgate, Mumbai - 400 020
+HDFC Bank LTd.
+HDFC0999999
+Mumbai
+4th floor ,HDFC Bank House, Senapati Bapat Marg,
+Parel , Mumbai -13, Opp. kamala Mills, Lower Parel,
+Mumbai
+HSBC
+HSBC02INDIA
+Mumbai Main Branch
+52/60, M G Road, Fort, Mumbai 400 001
+HSBC Securities Ltd.
+HCPD0INBB01
+Mumbai Branch
+52/60, M G Road, Fort, Mumbai 400 001
+ICICI Bank
+ICIC0TREA00
+Corporate Office- Treasury
+ICICI Bank Towers, Bandra Kurla Complex, Mumbai
+400051
+ICICI SECURITIES & LTD
+ISEC0000001
+Mumbai
+ICICI Securities Limited ,ICICI Centre ,H.T.Parikh
+Marg,Churchgate,Mumbai 400 020 ,India.
+
+
+--- Page 3 ---
+IDBI
+IBKL0009998
+Payment Gateway
+Information Technology Department, Plot No.A-34,
+Cross Road No.2, Marol, MIDC, Andheri (East),
+Mumbai - 400 093.
+IDBI Capital Market Services
+Limited
+ICMS0000001
+Mumbai
+8th Floor, Bakhtawar, Nariman Point, Mumbai-400021
+Indian Bank
+IDIB000C080
+HEAD OFFICE,  DOMESTIC
+TREASURY
+Head Office, Computer Policy & Planning
+Department, 66, Rajaji Salai, Chennai 600 001.
+Indian Overseas Bank
+IOBA0009016
+Anna Salai
+ Computer Policy & Planning Department, Central
+Office, 763 Anna Salai, Chennai - 600 002.
+IndusInd Bank
+INDB0000098
+INDUSIND TREASURY
+3RD FLOOR HOECHST HOUSE NARIMAN
+POINTMUMBAI - 400 0021
+ING Vysya Bank
+VYSA0000001
+Corporate Office
+No. 22, MG Road, II Floor, Bangalore - 560 001
+J.P. Morgan Securities India Pvt.
+Ltd.
+JPMS0INBX01
+Mumbai
+Mafatlal Centre, 9th Floor, Nariman Point, Mumbai
+400 021
+Jammu and Kashmir Bank Ltd
+JAKA0DEALER
+PAYMENT SYSTEM
+GATEWAY Treasury
+Operations
+5th Floor Merchant Chambers, 41 New Marine Lines,
+Mumbai
+Jankalyan Shakari Bank Ltd.
+JSBL0000001
+Head Office, Chembur
+Vivek Darshan, 140, Sindhi Society, Chembur,
+Mumbai - 400 071
+JP Morgan Chase Bank
+CHAS0INBX01
+Mumbai
+9th Floor, Mafatlal Center, Nariman Point, Mumbai
+400021
+Karnataka Bank Ltd.
+KARB0000001
+Head Office, Treasuary
+Department
+Treasury & Accounts Dept, Head Office,P B No 599,
+Mahaveera Circle, Kankanady, Mangalore -575002
+KARUR VYSYA BANK LIMITED
+KVBL0001260
+DATA CENTRE
+VI FLOOR, D BLOCK, NORTH SIDE, TARAMANI,
+TIDEL PARK,CHENNAI
+Kotak Mahindra Bank
+KKBK0000632
+Treasury, Mumabai
+Bakhtawar Office
+Bakhtawar, II nd Floor, 229, Nariman Point, Mumbai
+400021
+Kotak Mahindra Capital Company
+KMCC0MUM001
+Mumbai
+3rd floorBakhtawar, 229 Nariman Point   Mumbai
+India 400 021
+KRUNG THAI BANK PCL
+KRTH0INBB01
+MUMBAI
+62 Maker Chambers VI, 6th Floor, Nariman Point,
+Mumbai 400 021.
+Laxmi Vilas Bank
+LAVB0000883
+Investment Cell
+25-31 ABAN HOUSE, 4th floor, ROPEWALK
+STREET, RAMPARTROW, P.B.NO.783, FORT,
+MUMBAI-400001
+Lord Krishna Bank
+LKBL000AOFF
+Kochi
+Regd and Admn Office, Second Floor, Indian Express
+Buildings, Kaloor, Kochi - Kerala 682017
+Maharashtra State Co-operative
+Bank Ltd.
+MSCI0082002
+Mumbai
+The Maharashtra State Co-op Bank Ltd., 120 Shahid
+Bhagat Singh Marg, Fort, Mumbai - 400 001
+MANDAVI CO-OPERATIVE BANK MCBL0CARNAC
+CARNAC BUNDER
+1st Floor, Vyapar Bhavan ,49, P.D'Mello Road,Carnac
+Bunder, Mumbai - 400 009.
+MASHREQ BANK
+MSHQ0000001
+MUMBAI
+602/603, Tulsiani Chambers, Nariman Point, Mumbai
+- 400 021
+Mizuho Corporate Bank Ltd.
+MHCB0000532
+Mumbai
+ Maker Chamber III, 1st Floor, Jamnalal Bajaj  Road,
+Nariman Point, Mumbai 400 021
+NEW INDIA CO-OP BANK LTD
+NICB0000001
+Fort
+241/243 P D'MELLO Road, Fort, Mumbai 400 001
+North Kanara G.S.B. Co-Op. Bank
+Ltd.
+NKGS0000001
+Central Office
+361, Laxmi Sadan, V.P. Road,Girgaum, Mumbai-
+400004.Maharashtra.
+ORIENTAL BANK OF
+COMMERCE
+ORBC0100000
+Treasury Branch
+181-A, Maker tower "E", 18th Floor, Cuffe Parade,
+Mumbai-400005
+PNB Gilts Limited
+PNBG0000001
+New Delhi
+5, Sansad Marg, New Delhi -110 001
+Punjab & Maharshtra Co-Op Bank PMCB0000001
+Accounts & Claring Office
+264, 2nd Floor,Gurudwara Building,S.B.S. Road, Fort,
+Mumbai 400001
+PUNJAB & SIND BANK
+PSIB0000001
+HEAD OFFICE
+H.O. COMPUTERS POLICY AND PLANNING, 21,
+
+
+--- Page 4 ---
+RAJENDRA PLACE, BANK HOUSE, NEW DELHI
+Punjab National Bank Ltd.
+PUNB0244200
+Head Office
+HO: Treasury Division, 1st Floor, PNB House, 7
+Bhikaiji Cama Place, New Delhi -110 066
+RATNAKAR BANK LTD.
+RATN0000070
+Fort
+7 Rahimtullah House, Homji Street, Near Horniman
+Circle, FORT, MUMBAI- 400 001
+Reserve Bank of India
+RBIN0RBIPI0
+Saraswat Co-operative Bank Ltd.
+SRCB0000092
+Treasury
+City Ice Building, 3rd Floor, Perin Nariman Street,
+Fort, Mumbai - 400 001.
+SBI DFHI Ltd.
+SBDF0000001
+Securities Trading Corporation Of
+India Ltd.
+STCI0000001
+Mumbai
+Krishna Chambers, 59, Vithaldas Thackersey Marg,
+Mumbai 400020
+Shamrao Vithal Co- Bank Ltd
+SVCB0000001
+Mumbai
+SVC Tower, 4th Floor,Nehru Road, Santacruz (East)
+Mumbai-400 055
+Societe General - The French &
+International Bank
+SOGE0INBB00
+Mumbai
+MAKER CHAMBER IV, 13TH FLOOR, NARIMAN
+POINT, MUMBAI - 400 021.
+South Indian Bank
+SIBL0002002
+ Ernakulam
+IT Division, SIB Building, Market Road, Ernakulam,
+Kerala – 682035
+Standard Chartered Bank Ltd.
+SCBL0036001
+90, M.G. Road
+90, M.G. Road, Mumbai 400 001
+State Bank Indore
+STIN0003351
+Funds Department
+1st Floor, Gundecha Chambers, Nagindas Master
+Road, Fort, Mumbai - 400 023
+State Bank of Hyderabad
+SBHY0000600
+Treasury Department
+Treasury Department, 1204, Ashok Mahal, 1st floor,
+Tulloch road, Behind regal theatre, Colaba, MUMBAI-
+400039
+State Bank of India
+SBIN0004343
+Treasury Branch
+Corporate Centre, Madame Cama Road, Mumbai -
+400 021
+State Bank of Mauritius Ltd
+STCB0000065
+Mumbai
+101, Raheja Centre, 1st Floor, Free Press Journal
+Road, Nariman Point, Mumbai - 400 021
+State Bank of Mysore
+SBMY0TREA00
+Payment Gateway Server
+ Head Office, Finance and Accounts
+Department, K G Road, Bangalore 560009.
+State Bank of Travancore
+SBTR0000999
+HEAD OFFICE
+CPP Department, Head Office, Trivandrum 695 012
+State Bank of   Bikaner & Jaipur
+SBBJ0010303
+T&I Cell
+239, P.D.Mello Road, Opp.GPO, Fort,  Mumbai-
+400001
+State Bank of   Patiala
+STBP0000758
+MUMBAI NARIMAN POINT
+BRANCH
+1st Floor Atlanta Bldg Nariman Point Mumbai
+State Bank of   Saurashtra 
+SSAU0001000
+Payment System Gateway
+Funds Management Branch, 11, S.A. Brelvi Road ,
+Fort , Mumbai
+Syndicate Bank
+SYNB000RTGS
+T & IBD, Mumbai
+2nd Floor, Maker tower E Wing, Cuffe Parade,
+COLABA, MUMBAI - 400 005
+Tamilnad Mercantile Bank Ltd
+TMBL0009999
+AC/16, Second Avenue , Anna Nagar, Chennai – 600
+040
+Thane Janta Shakari Bank
+TJSB0000001
+Head Office
+Madhukar Bhavan, Road No.16, Wagle Industrial
+Estate, Thane (W) 400604
+The Kapol Co-operative Bank Ltd.
+KCBL0000016
+Administrative Office
+1402 / 1403, Dalamal Towers, Nariman Point,
+Mumbai - 400 021.
+The Sangli Bank Ltd,
+SIBD0581010
+Fort
+296, Perin Nariman St., Post Box No. 789, Fort
+Mumbai 400001
+Uco Bank
+UCBA0000001
+Treasury,Mumbai
+UCO BANK, Treasury Branch, Mafatlal Centre (1st
+Floor), Nariman Point, Mumbai - 400021
+UFJ BANK LTD
+UFJB0000001
+NEW DELHI
+UFJ bank Limited, Upper Ground Floor Mercantile
+House, 15 Kasturba Gandhi Marg, New Delhi - 110
+
+
+--- Page 5 ---
+001
+Union Bank of India
+UBIN0550451
+Treasury Branch
+5th Floor, Union Bank Bhavan, 239, Vidhan Bhavan
+Marg, Nariman Point, Mumbai - 400 021.
+United Bank of India
+UTBI0HOA139
+Kolkatta
+6th Floor, 16 Old Court House Street, KOLKATTA -
+700 001
+UNITED WESTERN BANK LTD.
+UWBK0000229
+Treasuary Branch
+Janmabhoomi Bhavan,  1st Floor, Janmabhoomi
+Marg, Fort Mumbai 400 001
+UTI Bank
+UTIB0000001
+Maker Towers ' F' 11th Floor, Cuffe Parade,  Mumbai
+- 400 005.
+Vijaya Bank
+VIJB0009502
+Treasury Management
+Division,
+VI Floor , Head Office, 41/2 M.G.Road, Trinity Circle,
+Bangalore - 560001
+Yes Bank Ltd.
+YESB0000001
+Nehru Centre
+YES Bank Limited,Ground Floor, Project Office,Nehru
+Centre,Discovery of India, Dr. A.B. Road, Worli,
+Mumbai – 400018,
